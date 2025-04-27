@@ -1,0 +1,11 @@
+s,q is (193/192*sqrt(530)*sqrt(3), 193)                                                                                                                           
+We have found a successfull  SIS instance!                                       
+Oracle O solved SIS! shortest vector is (4, 2, 4, 3)                             
+Found decent SIS solution to approximation factor 8! continuing reduction (4, 2, 4, 3)                                                                            
+generating a new shorter lattice vector: (0, -2, 0)                              
+V is in the Lattice becuase:                                                                                                                                      
+ [-1  0 -1]                                                                      
+[ 0  1 -2]                                                                                                                                                        
+[23  0 -1]*(0, -2, 0)=V                                                          
+(-1, 0, -1)                                                                      
+
